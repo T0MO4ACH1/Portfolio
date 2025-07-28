@@ -321,7 +321,7 @@ body {
     z-index: -1;
 }
 
-.btn2 {
+.btnH {
   padding: 0.8rem 2rem;
   background: #61abff;
   color: #fff;
@@ -330,7 +330,7 @@ body {
   transition: background 0.3s ease, transform 0.3s ease;
 }
 
-.btn2:hover {
+.btnH:hover {
   background: #ad101d;
   color: black;
   transform: scale(1.05);
